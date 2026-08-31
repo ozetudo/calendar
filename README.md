@@ -8,17 +8,15 @@
 ![来月のカレンダー](assets/calendar-next-3438d937f9d1.svg)
 <!-- zunocal:calendar:next:end -->
 
-[zunoser Project #3](https://github.com/orgs/zunoser/projects/3)
-
 ## 購読
 
-[Google カレンダーに追加](https://calendar.google.com/calendar/r?cid=webcal%3A%2F%2Fraw.githubusercontent.com%2Fzunoser%2Fcalendar%2Fmain%2Fics%2Fcalendar.ics)
+[Google カレンダーに追加](https://calendar.google.com/calendar/r?cid=webcal%3A%2F%2Fraw.githubusercontent.com%2Fozetudo%2Fcalendar%2Fmain%2Fics%2Fcalendar.ics)
 
 <details>
 <summary>Apple カレンダー / Outlook:</summary>
 
 ```
-webcal://raw.githubusercontent.com/zunoser/calendar/main/ics/calendar.ics
+webcal://raw.githubusercontent.com/ozetudo/calendar/main/ics/calendar.ics
 ```
 
 </details>
@@ -27,7 +25,7 @@ webcal://raw.githubusercontent.com/zunoser/calendar/main/ics/calendar.ics
 <summary>その他:</summary>
 
 ```url
-https://raw.githubusercontent.com/zunoser/calendar/main/ics/calendar.ics
+https://raw.githubusercontent.com/ozetudo/calendar/main/ics/calendar.ics
 ```
 
 </details>
@@ -67,23 +65,6 @@ pnpm typecheck
 pnpm lint
 pnpm fmt
 ```
-
-### リポジトリ基盤
-
-`infra/github` では、バージョン固定した OpenTofu モジュール
-`zunoser/tfmodule-gh-repo-kit` を使ってこのリポジトリを管理している。
-state は共有 R2 バックエンドの
-`github/repositories/calendar/terraform.tfstate` に保存し、リポジトリラベルは
-`infra/github/labels.tf` でモジュールとあわせて宣言している。
-
-認証情報なしで静的検証できる:
-
-```sh
-tofu -chdir=infra/github init -backend=false
-tofu -chdir=infra/github validate
-```
-
-実際の plan には、R2 バックエンドの認証情報と GitHub トークンも必要になる。
 
 ### パッケージ構成
 

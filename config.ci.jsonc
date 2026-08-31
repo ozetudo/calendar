@@ -1,6 +1,6 @@
 {
-  "repository": { "owner": "zunoser", "name": "calendar" },
-  "userAgent": "zunoser-calendar",
+  "repository": { "owner": "ozetudo", "name": "calendar" },
+  "userAgent": "ozetudo-calendar",
   "issueType": "Calendar",
   "dateFields": { "start": "Start date", "end": "Target date" },
   "statusField": { "name": "Date status", "error": "Error", "open": "Next" },
