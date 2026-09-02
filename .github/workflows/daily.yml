@@ -30,7 +30,7 @@ jobs:
       - run: pnpm zunocal close --config config.ci.jsonc
         env:
           TOKEN: ${{ github.token }}
-      - run: pnpm zunocal ics --config config.ci.jsonc --name ずのさー
+      - run: pnpm zunocal ics --config config.ci.jsonc --name カレンダー
         env:
           TOKEN: ${{ github.token }}
       - name: Update calendar SVGs
