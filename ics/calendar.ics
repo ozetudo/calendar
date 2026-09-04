@@ -77,6 +77,21 @@ DESCRIPTION:予定日: 2026-04-07\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/6
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIOSQ
+SEQUENCE:0
+DTSTAMP:20260904T082834Z
+DTSTART;VALUE=DATE:20260407
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-04-07\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/120
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/120
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTHTw
 SEQUENCE:0
 DTSTAMP:20260903T155254Z
@@ -99,6 +114,22 @@ SUMMARY:[7]生徒指導OR(1年)
 DESCRIPTION:予定日: 2026-04-08\n\nhttps://github.com/ozetudo/calendar/i
  ssues/8
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/8
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIO4Q
+SEQUENCE:0
+DTSTAMP:20260904T082835Z
+DTSTART;VALUE=DATE:20260408
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-04-08\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/121
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/121
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTJBg
@@ -185,6 +216,21 @@ DESCRIPTION:予定日: 2026-04-09\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/19
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIPgA
+SEQUENCE:0
+DTSTAMP:20260904T082835Z
+DTSTART;VALUE=DATE:20260409
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-04-09\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/122
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/122
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTPWQ
 SEQUENCE:0
 DTSTAMP:20260903T155301Z
@@ -219,6 +265,20 @@ SUMMARY:[業後]1年自転車点検(予備)
 DESCRIPTION:予定日: 2026-04-10\n\nhttps://github.com/ozetudo/calendar/i
  ssues/25
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/25
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIQGA
+SEQUENCE:0
+DTSTAMP:20260904T082836Z
+DTSTART;VALUE=DATE:20260410
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-04-10\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/123
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/123
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTSug
@@ -281,6 +341,37 @@ DESCRIPTION:予定日: 2026-04-13\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/34
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIQsw
+SEQUENCE:0
+DTSTAMP:20260904T082836Z
+DTSTART;VALUE=DATE:20260413
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-04-13\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/124
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/124
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIRRA
+SEQUENCE:0
+DTSTAMP:20260904T082837Z
+DTSTART;VALUE=DATE:20260414
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-04-14\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/125
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/125
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTWsA
 SEQUENCE:0
 DTSTAMP:20260903T155308Z
@@ -305,6 +396,22 @@ DESCRIPTION:予定日: 2026-04-15\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/40
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIR4Q
+SEQUENCE:0
+DTSTAMP:20260904T082838Z
+DTSTART;VALUE=DATE:20260415
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-04-15\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/126
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/126
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTYTg
 SEQUENCE:0
 DTSTAMP:20260903T155310Z
@@ -327,6 +434,21 @@ SUMMARY:耳鼻科検診①
 DESCRIPTION:予定日: 2026-04-16\n\nhttps://github.com/ozetudo/calendar/i
  ssues/44
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/44
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIStA
+SEQUENCE:0
+DTSTAMP:20260904T082839Z
+DTSTART;VALUE=DATE:20260416
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-04-16\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/127
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/127
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTawQ
@@ -365,6 +487,36 @@ SUMMARY:内科検診①
 DESCRIPTION:予定日: 2026-04-17\n\nhttps://github.com/ozetudo/calendar/i
  ssues/51
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/51
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIT2g
+SEQUENCE:0
+DTSTAMP:20260904T082839Z
+DTSTART;VALUE=DATE:20260417
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-04-17\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/128
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/128
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIUaw
+SEQUENCE:0
+DTSTAMP:20260904T082840Z
+DTSTART;VALUE=DATE:20260420
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-04-20\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/129
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/129
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTcoA
@@ -428,6 +580,37 @@ DESCRIPTION:予定日: 2026-04-21\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/61
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIVBw
+SEQUENCE:0
+DTSTAMP:20260904T082840Z
+DTSTART;VALUE=DATE:20260421
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-04-21\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/130
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/130
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIVtw
+SEQUENCE:0
+DTSTAMP:20260904T082841Z
+DTSTART;VALUE=DATE:20260422
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-04-22\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/131
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/131
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTgyg
 SEQUENCE:0
 DTSTAMP:20260903T155318Z
@@ -450,6 +633,21 @@ SUMMARY:部活動登録
 DESCRIPTION:予定日: 2026-04-23\n\nhttps://github.com/ozetudo/calendar/i
  ssues/65
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/65
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIWRw
+SEQUENCE:0
+DTSTAMP:20260904T082842Z
+DTSTART;VALUE=DATE:20260423
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-04-23\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/132
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/132
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTijA
@@ -476,6 +674,36 @@ DESCRIPTION:予定日: 2026-04-24\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/69
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIW_A
+SEQUENCE:0
+DTSTAMP:20260904T082843Z
+DTSTART;VALUE=DATE:20260424
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-04-24\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/133
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/133
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIXhA
+SEQUENCE:0
+DTSTAMP:20260904T082843Z
+DTSTART;VALUE=DATE:20260427
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-04-27\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/134
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/134
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTkAA
 SEQUENCE:0
 DTSTAMP:20260903T155322Z
@@ -486,6 +714,21 @@ SUMMARY:内科検診②
 DESCRIPTION:予定日: 2026-04-28\n\nhttps://github.com/ozetudo/calendar/i
  ssues/71
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/71
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIYpw
+SEQUENCE:0
+DTSTAMP:20260904T082844Z
+DTSTART;VALUE=DATE:20260428
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-04-28\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/135
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/135
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTk2Q
@@ -522,6 +765,35 @@ SUMMARY:[6]3年卒業生と語る会(体育館他)
 DESCRIPTION:予定日: 2026-04-30\n\nhttps://github.com/ozetudo/calendar/i
  ssues/76
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/76
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIZWQ
+SEQUENCE:0
+DTSTAMP:20260904T082845Z
+DTSTART;VALUE=DATE:20260430
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-04-30\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/136
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/136
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIaiA
+SEQUENCE:0
+DTSTAMP:20260904T082845Z
+DTSTART;VALUE=DATE:20260501
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-05-01\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/137
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/137
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTn4A
@@ -596,6 +868,21 @@ DESCRIPTION:予定日: 2026-05-07\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/88
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIbTg
+SEQUENCE:0
+DTSTAMP:20260904T082846Z
+DTSTART;VALUE=DATE:20260507
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-05-07\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/138
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/138
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTtXw
 SEQUENCE:0
 DTSTAMP:20260903T155331Z
@@ -606,6 +893,20 @@ SUMMARY:耳鼻科検診②
 DESCRIPTION:予定日: 2026-05-08\n\nhttps://github.com/ozetudo/calendar/i
  ssues/91
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/91
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIb-Q
+SEQUENCE:0
+DTSTAMP:20260904T082846Z
+DTSTART;VALUE=DATE:20260508
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-05-08\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/139
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/139
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTuTw
@@ -632,6 +933,22 @@ DESCRIPTION:予定日: 2026-05-11\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/95
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIcoA
+SEQUENCE:0
+DTSTAMP:20260904T082847Z
+DTSTART;VALUE=DATE:20260511
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-05-11\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/140
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/140
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTwOA
 SEQUENCE:0
 DTSTAMP:20260903T155333Z
@@ -644,6 +961,21 @@ DESCRIPTION:予定日: 2026-05-12\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/96
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIdfA
+SEQUENCE:0
+DTSTAMP:20260904T082848Z
+DTSTART;VALUE=DATE:20260512
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-05-12\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/141
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/141
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTxDA
 SEQUENCE:0
 DTSTAMP:20260903T155334Z
@@ -654,6 +986,22 @@ SUMMARY:尿検査1次②
 DESCRIPTION:予定日: 2026-05-13\n\nhttps://github.com/ozetudo/calendar/i
  ssues/99
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/99
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIegw
+SEQUENCE:0
+DTSTAMP:20260904T082848Z
+DTSTART;VALUE=DATE:20260513
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-05-13\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/142
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/142
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTxrg
@@ -680,6 +1028,21 @@ DESCRIPTION:予定日: 2026-05-14\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/103
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIfSg
+SEQUENCE:0
+DTSTAMP:20260904T082850Z
+DTSTART;VALUE=DATE:20260514
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-05-14\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/143
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/143
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTzeQ
 SEQUENCE:0
 DTSTAMP:20260903T155337Z
@@ -690,6 +1053,20 @@ SUMMARY:内科検診④
 DESCRIPTION:予定日: 2026-05-15\n\nhttps://github.com/ozetudo/calendar/i
  ssues/105
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/105
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIf6w
+SEQUENCE:0
+DTSTAMP:20260904T082850Z
+DTSTART;VALUE=DATE:20260515
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-05-15\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/144
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/144
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjT0Jg
@@ -741,6 +1118,53 @@ DESCRIPTION:予定日: 2026-05-18\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/113
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIhIw
+SEQUENCE:0
+DTSTAMP:20260904T082851Z
+DTSTART;VALUE=DATE:20260518
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-05-18\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/145
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/145
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIhxw
+SEQUENCE:0
+DTSTAMP:20260904T082852Z
+DTSTART;VALUE=DATE:20260519
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-05-19\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/146
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/146
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIiUw
+SEQUENCE:0
+DTSTAMP:20260904T082853Z
+DTSTART;VALUE=DATE:20260520
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-05-20\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/147
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/147
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjT4Lw
 SEQUENCE:0
 DTSTAMP:20260903T155342Z
@@ -777,6 +1201,961 @@ DESCRIPTION:予定日: 2026-05-21\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/118
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIjAA
+SEQUENCE:0
+DTSTAMP:20260904T082853Z
+DTSTART;VALUE=DATE:20260521
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-05-21\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/148
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/148
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIjtA
+SEQUENCE:0
+DTSTAMP:20260904T082854Z
+DTSTART;VALUE=DATE:20260522
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-05-22\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/149
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/149
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIkfw
+SEQUENCE:0
+DTSTAMP:20260904T082854Z
+DTSTART;VALUE=DATE:20260525
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-05-25\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/150
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/150
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIlGQ
+SEQUENCE:0
+DTSTAMP:20260904T082855Z
+DTSTART;VALUE=DATE:20260526
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-05-26\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/151
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/151
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIltg
+SEQUENCE:0
+DTSTAMP:20260904T082856Z
+DTSTART;VALUE=DATE:20260527
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-05-27\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/152
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/152
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIm1A
+SEQUENCE:0
+DTSTAMP:20260904T082856Z
+DTSTART;VALUE=DATE:20260528
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-05-28\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/153
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/153
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIncg
+SEQUENCE:0
+DTSTAMP:20260904T082857Z
+DTSTART;VALUE=DATE:20260529
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-05-29\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/154
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/154
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIoMA
+SEQUENCE:0
+DTSTAMP:20260904T082858Z
+DTSTART;VALUE=DATE:20260601
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-06-01\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/155
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/155
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIozQ
+SEQUENCE:0
+DTSTAMP:20260904T082858Z
+DTSTART;VALUE=DATE:20260602
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-06-02\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/156
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/156
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIpZA
+SEQUENCE:0
+DTSTAMP:20260904T082859Z
+DTSTART;VALUE=DATE:20260603
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-06-03\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/157
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/157
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIqFQ
+SEQUENCE:0
+DTSTAMP:20260904T082900Z
+DTSTART;VALUE=DATE:20260604
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-06-04\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/158
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/158
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIqsA
+SEQUENCE:0
+DTSTAMP:20260904T082900Z
+DTSTART;VALUE=DATE:20260605
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-06-05\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/159
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/159
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIrPg
+SEQUENCE:0
+DTSTAMP:20260904T082901Z
+DTSTART;VALUE=DATE:20260608
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-06-08\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/160
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/160
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIr7w
+SEQUENCE:0
+DTSTAMP:20260904T082901Z
+DTSTART;VALUE=DATE:20260609
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-06-09\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/161
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/161
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIsuw
+SEQUENCE:0
+DTSTAMP:20260904T082902Z
+DTSTART;VALUE=DATE:20260610
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-06-10\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/162
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/162
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqItaQ
+SEQUENCE:0
+DTSTAMP:20260904T082903Z
+DTSTART;VALUE=DATE:20260611
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-06-11\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/163
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/163
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIuCQ
+SEQUENCE:0
+DTSTAMP:20260904T082903Z
+DTSTART;VALUE=DATE:20260612
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-06-12\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/164
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/164
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIupA
+SEQUENCE:0
+DTSTAMP:20260904T082904Z
+DTSTART;VALUE=DATE:20260615
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-06-15\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/165
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/165
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIvOg
+SEQUENCE:0
+DTSTAMP:20260904T082904Z
+DTSTART;VALUE=DATE:20260616
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-06-16\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/166
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/166
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIv7Q
+SEQUENCE:0
+DTSTAMP:20260904T082905Z
+DTSTART;VALUE=DATE:20260617
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-06-17\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/167
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/167
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIwog
+SEQUENCE:0
+DTSTAMP:20260904T082906Z
+DTSTART;VALUE=DATE:20260618
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-06-18\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/168
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/168
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIxcQ
+SEQUENCE:0
+DTSTAMP:20260904T082906Z
+DTSTART;VALUE=DATE:20260619
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-06-19\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/169
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/169
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIyCQ
+SEQUENCE:0
+DTSTAMP:20260904T082907Z
+DTSTART;VALUE=DATE:20260622
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-06-22\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/170
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/170
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIynw
+SEQUENCE:0
+DTSTAMP:20260904T082908Z
+DTSTART;VALUE=DATE:20260623
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-06-23\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/171
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/171
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIzIw
+SEQUENCE:0
+DTSTAMP:20260904T082909Z
+DTSTART;VALUE=DATE:20260624
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-06-24\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/172
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/172
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqIzvQ
+SEQUENCE:0
+DTSTAMP:20260904T082909Z
+DTSTART;VALUE=DATE:20260625
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-06-25\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/173
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/173
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI0Xw
+SEQUENCE:0
+DTSTAMP:20260904T082910Z
+DTSTART;VALUE=DATE:20260626
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-06-26\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/174
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/174
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI09Q
+SEQUENCE:0
+DTSTAMP:20260904T082911Z
+DTSTART;VALUE=DATE:20260629
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-06-29\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/175
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/175
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI1oA
+SEQUENCE:0
+DTSTAMP:20260904T082911Z
+DTSTART;VALUE=DATE:20260630
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-06-30\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/176
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/176
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI2QQ
+SEQUENCE:0
+DTSTAMP:20260904T082912Z
+DTSTART;VALUE=DATE:20260701
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-07-01\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/177
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/177
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI20Q
+SEQUENCE:0
+DTSTAMP:20260904T082913Z
+DTSTART;VALUE=DATE:20260702
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-07-02\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/178
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/178
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI3Xw
+SEQUENCE:0
+DTSTAMP:20260904T082913Z
+DTSTART;VALUE=DATE:20260703
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-07-03\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/179
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/179
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI4Dw
+SEQUENCE:0
+DTSTAMP:20260904T082914Z
+DTSTART;VALUE=DATE:20260706
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-07-06\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/180
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/180
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI4mg
+SEQUENCE:0
+DTSTAMP:20260904T082914Z
+DTSTART;VALUE=DATE:20260707
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-07-07\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/181
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/181
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI5MQ
+SEQUENCE:0
+DTSTAMP:20260904T082915Z
+DTSTART;VALUE=DATE:20260708
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-07-08\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/182
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/182
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI6Xg
+SEQUENCE:0
+DTSTAMP:20260904T082916Z
+DTSTART;VALUE=DATE:20260709
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-07-09\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/183
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/183
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI6-w
+SEQUENCE:0
+DTSTAMP:20260904T082916Z
+DTSTART;VALUE=DATE:20260710
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-07-10\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/184
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/184
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI7lw
+SEQUENCE:0
+DTSTAMP:20260904T082917Z
+DTSTART;VALUE=DATE:20260713
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-07-13\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/185
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/185
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI8KA
+SEQUENCE:0
+DTSTAMP:20260904T082918Z
+DTSTART;VALUE=DATE:20260714
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-07-14\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/186
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/186
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI8tg
+SEQUENCE:0
+DTSTAMP:20260904T082918Z
+DTSTART;VALUE=DATE:20260715
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-07-15\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/187
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/187
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI9WQ
+SEQUENCE:0
+DTSTAMP:20260904T082919Z
+DTSTART;VALUE=DATE:20260716
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-07-16\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/188
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/188
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI-BQ
+SEQUENCE:0
+DTSTAMP:20260904T082920Z
+DTSTART;VALUE=DATE:20260717
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-07-17\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/189
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/189
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI-0Q
+SEQUENCE:0
+DTSTAMP:20260904T082920Z
+DTSTART;VALUE=DATE:20260828
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-08-28\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/190
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/190
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqI_2g
+SEQUENCE:0
+DTSTAMP:20260904T082921Z
+DTSTART;VALUE=DATE:20260831
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-08-31\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/191
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/191
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJAvw
+SEQUENCE:0
+DTSTAMP:20260904T082922Z
+DTSTART;VALUE=DATE:20260901
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-09-01\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/192
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/192
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJBhQ
+SEQUENCE:0
+DTSTAMP:20260904T082922Z
+DTSTART;VALUE=DATE:20260902
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-09-02\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/193
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/193
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJCbg
+SEQUENCE:0
+DTSTAMP:20260904T082923Z
+DTSTART;VALUE=DATE:20260903
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-09-03\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/194
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/194
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJDCA
+SEQUENCE:0
+DTSTAMP:20260904T080601Z
+DTSTART;VALUE=DATE:20260904
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-09-04\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/195
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/195
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJDog
+SEQUENCE:0
+DTSTAMP:20260904T080602Z
+DTSTART;VALUE=DATE:20260907
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-09-07\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/196
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/196
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJEZg
+SEQUENCE:0
+DTSTAMP:20260904T080604Z
+DTSTART;VALUE=DATE:20260908
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-09-08\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/197
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/197
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJF-g
+SEQUENCE:0
+DTSTAMP:20260904T080605Z
+DTSTART;VALUE=DATE:20260909
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-09-09\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/198
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/198
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJHEQ
+SEQUENCE:0
+DTSTAMP:20260904T080607Z
+DTSTART;VALUE=DATE:20260910
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-09-10\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/199
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/199
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJHlA
+SEQUENCE:0
+DTSTAMP:20260904T080608Z
+DTSTART;VALUE=DATE:20260911
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-09-11\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/200
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/200
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJIQw
+SEQUENCE:0
+DTSTAMP:20260904T080609Z
+DTSTART;VALUE=DATE:20260914
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-09-14\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/201
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/201
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJIyw
+SEQUENCE:0
+DTSTAMP:20260904T080610Z
+DTSTART;VALUE=DATE:20260915
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-09-15\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/202
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/202
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJJWw
+SEQUENCE:0
+DTSTAMP:20260904T080611Z
+DTSTART;VALUE=DATE:20260916
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-09-16\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/203
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/203
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJJ6Q
+SEQUENCE:0
+DTSTAMP:20260904T080612Z
+DTSTART;VALUE=DATE:20260917
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-09-17\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/204
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/204
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJLFA
+SEQUENCE:0
+DTSTAMP:20260904T080614Z
+DTSTART;VALUE=DATE:20260918
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-09-18\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/205
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/205
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJLuw
+SEQUENCE:0
+DTSTAMP:20260904T080615Z
+DTSTART;VALUE=DATE:20260924
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-09-24\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/206
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/206
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJMWw
+SEQUENCE:0
+DTSTAMP:20260904T080616Z
+DTSTART;VALUE=DATE:20260925
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-09-25\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/207
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/207
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJNAw
+SEQUENCE:0
+DTSTAMP:20260904T080617Z
+DTSTART;VALUE=DATE:20260928
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-09-28\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/208
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/208
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJNog
+SEQUENCE:0
+DTSTAMP:20260904T080619Z
+DTSTART;VALUE=DATE:20260929
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-09-29\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/209
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/209
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJOQA
+SEQUENCE:0
+DTSTAMP:20260904T080620Z
+DTSTART;VALUE=DATE:20260930
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-09-30\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/210
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/210
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTLow
 SEQUENCE:0
 DTSTAMP:20260903T155013Z
@@ -787,6 +2166,21 @@ SUMMARY:2学期中間テスト
 DESCRIPTION:予定日: 2026-10-01\n\nhttps://github.com/ozetudo/calendar/i
  ssues/12
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/12
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJO9Q
+SEQUENCE:0
+DTSTAMP:20260904T080621Z
+DTSTART;VALUE=DATE:20261001
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-10-01\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/211
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/211
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTMZQ
@@ -813,6 +2207,20 @@ DESCRIPTION:予定日: 2026-10-02\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/16
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJPjw
+SEQUENCE:0
+DTSTAMP:20260904T080622Z
+DTSTART;VALUE=DATE:20261002
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-10-02\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/212
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/212
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTN-Q
 SEQUENCE:0
 DTSTAMP:20260903T155017Z
@@ -837,6 +2245,22 @@ DESCRIPTION:予定日: 2026-10-04\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/20
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJQqA
+SEQUENCE:0
+DTSTAMP:20260904T080623Z
+DTSTART;VALUE=DATE:20261005
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-10-05\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/213
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/213
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTPxw
 SEQUENCE:0
 DTSTAMP:20260903T155020Z
@@ -849,6 +2273,21 @@ DESCRIPTION:予定日: 2026-10-06\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/22
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJRNw
+SEQUENCE:0
+DTSTAMP:20260904T080624Z
+DTSTART;VALUE=DATE:20261006
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-10-06\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/214
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/214
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTRJw
 SEQUENCE:0
 DTSTAMP:20260903T155021Z
@@ -859,6 +2298,37 @@ SUMMARY:1年校外学習(予備日)
 DESCRIPTION:予定日: 2026-10-07\n\nhttps://github.com/ozetudo/calendar/i
  ssues/24
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/24
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJRxA
+SEQUENCE:0
+DTSTAMP:20260904T080626Z
+DTSTART;VALUE=DATE:20261007
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-10-07\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/215
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/215
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJSWA
+SEQUENCE:0
+DTSTAMP:20260904T080627Z
+DTSTART;VALUE=DATE:20261008
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-10-08\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/216
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/216
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTR1w
@@ -885,6 +2355,20 @@ DESCRIPTION:予定日: 2026-10-09\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/27
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJTAA
+SEQUENCE:0
+DTSTAMP:20260904T080628Z
+DTSTART;VALUE=DATE:20261009
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-10-09\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/217
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/217
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTTTA
 SEQUENCE:0
 DTSTAMP:20260903T155024Z
@@ -909,6 +2393,21 @@ DESCRIPTION:予定日: 2026-10-13\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/31
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJTpA
+SEQUENCE:0
+DTSTAMP:20260904T080630Z
+DTSTART;VALUE=DATE:20261013
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-10-13\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/218
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/218
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTU1A
 SEQUENCE:0
 DTSTAMP:20260903T155027Z
@@ -922,6 +2421,51 @@ DESCRIPTION:予定日: 2026-10-13 〜 2026-10-24\n\nhttps://github.com/oze
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/33
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJUPg
+SEQUENCE:0
+DTSTAMP:20260904T080631Z
+DTSTART;VALUE=DATE:20261014
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-10-14\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/219
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/219
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJVZg
+SEQUENCE:0
+DTSTAMP:20260904T080632Z
+DTSTART;VALUE=DATE:20261015
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-10-15\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/220
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/220
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJV5A
+SEQUENCE:0
+DTSTAMP:20260904T080633Z
+DTSTART;VALUE=DATE:20261016
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-10-16\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/221
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/221
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTVdA
 SEQUENCE:0
 DTSTAMP:20260903T155028Z
@@ -932,6 +2476,53 @@ SUMMARY:第3回全統共通テスト模試 (自校会場)
 DESCRIPTION:予定日: 2026-10-17\n\nhttps://github.com/ozetudo/calendar/i
  ssues/35
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/35
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJWVw
+SEQUENCE:0
+DTSTAMP:20260904T080634Z
+DTSTART;VALUE=DATE:20261019
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-10-19\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/222
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/222
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJW6A
+SEQUENCE:0
+DTSTAMP:20260904T080635Z
+DTSTART;VALUE=DATE:20261020
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-10-20\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/223
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/223
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJXdA
+SEQUENCE:0
+DTSTAMP:20260904T080636Z
+DTSTART;VALUE=DATE:20261021
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-10-21\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/224
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/224
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTW3g
@@ -956,6 +2547,35 @@ SUMMARY:進路考査該当者指導
 DESCRIPTION:予定日: 2026-10-22\n\nhttps://github.com/ozetudo/calendar/i
  ssues/37
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/37
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJYBg
+SEQUENCE:0
+DTSTAMP:20260904T080638Z
+DTSTART;VALUE=DATE:20261022
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-10-22\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/225
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/225
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJYlQ
+SEQUENCE:0
+DTSTAMP:20260904T080639Z
+DTSTART;VALUE=DATE:20261023
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-10-23\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/226
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/226
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTXpA
@@ -1018,6 +2638,22 @@ DESCRIPTION:予定日: 2026-10-25\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/45
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJZFA
+SEQUENCE:0
+DTSTAMP:20260904T080640Z
+DTSTART;VALUE=DATE:20261026
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-10-26\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/227
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/227
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTbkQ
 SEQUENCE:0
 DTSTAMP:20260903T155038Z
@@ -1042,6 +2678,52 @@ DESCRIPTION:予定日: 2026-10-27\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/53
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJaGA
+SEQUENCE:0
+DTSTAMP:20260904T080641Z
+DTSTART;VALUE=DATE:20261027
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-10-27\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/228
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/228
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJawA
+SEQUENCE:0
+DTSTAMP:20260904T080642Z
+DTSTART;VALUE=DATE:20261028
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-10-28\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/229
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/229
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJbWg
+SEQUENCE:0
+DTSTAMP:20260904T080643Z
+DTSTART;VALUE=DATE:20261029
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-10-29\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/230
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/230
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTdow
 SEQUENCE:0
 DTSTAMP:20260903T155042Z
@@ -1052,6 +2734,20 @@ SUMMARY:GTEC (校内)
 DESCRIPTION:予定日: 2026-10-30\n\nhttps://github.com/ozetudo/calendar/i
  ssues/55
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/55
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJcDA
+SEQUENCE:0
+DTSTAMP:20260904T080644Z
+DTSTART;VALUE=DATE:20261030
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-10-30\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/231
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/231
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTebA
@@ -1078,6 +2774,22 @@ DESCRIPTION:予定日: 2026-11-02\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/59
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJcpw
+SEQUENCE:0
+DTSTAMP:20260904T080646Z
+DTSTART;VALUE=DATE:20261102
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-11-02\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/232
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/232
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTf2Q
 SEQUENCE:0
 DTSTAMP:20260903T155045Z
@@ -1100,6 +2812,23 @@ SUMMARY:月曜日授業
 DESCRIPTION:予定日: 2026-11-04\n\nhttps://github.com/ozetudo/calendar/i
  ssues/62
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/62
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJdGQ
+SEQUENCE:0
+DTSTAMP:20260904T080647Z
+DTSTART;VALUE=DATE:20261104
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田) (※月曜授業振替)
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-11-04\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田) (※月曜授業振替)\n\nhttps://github.com/ozetudo/cale
+ ndar/issues/233
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/233
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTheA
@@ -1139,6 +2868,21 @@ DESCRIPTION:予定日: 2026-11-05\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/68
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJdrQ
+SEQUENCE:0
+DTSTAMP:20260904T080648Z
+DTSTART;VALUE=DATE:20261105
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-11-05\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/234
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/234
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTj6g
 SEQUENCE:0
 DTSTAMP:20260903T155052Z
@@ -1149,6 +2893,20 @@ SUMMARY:就職考査結果報告
 DESCRIPTION:予定日: 2026-11-06\n\nhttps://github.com/ozetudo/calendar/i
  ssues/70
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/70
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJeRQ
+SEQUENCE:0
+DTSTAMP:20260904T080649Z
+DTSTART;VALUE=DATE:20261106
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-11-06\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/235
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/235
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTkrg
@@ -1199,6 +2957,22 @@ DESCRIPTION:予定日: 2026-11-09\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/79
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJfZA
+SEQUENCE:0
+DTSTAMP:20260904T080650Z
+DTSTART;VALUE=DATE:20261109
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-11-09\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/236
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/236
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTohg
 SEQUENCE:0
 DTSTAMP:20260903T155100Z
@@ -1223,6 +2997,21 @@ DESCRIPTION:予定日: 2026-11-10\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/83
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJf5Q
+SEQUENCE:0
+DTSTAMP:20260904T080651Z
+DTSTART;VALUE=DATE:20261110
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-11-10\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/237
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/237
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTqYw
 SEQUENCE:0
 DTSTAMP:20260903T155103Z
@@ -1233,6 +3022,22 @@ SUMMARY:四者面談③
 DESCRIPTION:予定日: 2026-11-11\n\nhttps://github.com/ozetudo/calendar/i
  ssues/85
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/85
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJgew
+SEQUENCE:0
+DTSTAMP:20260904T080652Z
+DTSTART;VALUE=DATE:20261111
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-11-11\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/238
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/238
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTr5A
@@ -1259,6 +3064,35 @@ DESCRIPTION:予定日: 2026-11-12\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/87
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJhEg
+SEQUENCE:0
+DTSTAMP:20260904T080653Z
+DTSTART;VALUE=DATE:20261112
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-11-12\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/239
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/239
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJiWw
+SEQUENCE:0
+DTSTAMP:20260904T080655Z
+DTSTART;VALUE=DATE:20261113
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-11-13\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/240
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/240
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTtNw
 SEQUENCE:0
 DTSTAMP:20260903T155106Z
@@ -1281,6 +3115,68 @@ SUMMARY:2級電気通信工事施工管理技術検定 (第一次検定)
 DESCRIPTION:予定日: 2026-11-15\n\nhttps://github.com/ozetudo/calendar/i
  ssues/92
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/92
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJjEQ
+SEQUENCE:0
+DTSTAMP:20260904T080656Z
+DTSTART;VALUE=DATE:20261116
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-11-16\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/241
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/241
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJjtQ
+SEQUENCE:0
+DTSTAMP:20260904T080657Z
+DTSTART;VALUE=DATE:20261117
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-11-17\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/242
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/242
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJkeQ
+SEQUENCE:0
+DTSTAMP:20260904T080658Z
+DTSTART;VALUE=DATE:20261118
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-11-18\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/243
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/243
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJl2A
+SEQUENCE:0
+DTSTAMP:20260904T080700Z
+DTSTART;VALUE=DATE:20261119
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-11-19\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/244
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/244
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTvHQ
@@ -1306,6 +3202,20 @@ SUMMARY:第95回計算技術検定
 DESCRIPTION:予定日: 2026-11-20\n\nhttps://github.com/ozetudo/calendar/i
  ssues/97
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/97
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJmXA
+SEQUENCE:0
+DTSTAMP:20260904T080701Z
+DTSTART;VALUE=DATE:20261120
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-11-20\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/245
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/245
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjTw5A
@@ -1344,6 +3254,22 @@ DESCRIPTION:予定日: 2026-11-24\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/102
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJm7g
+SEQUENCE:0
+DTSTAMP:20260904T080702Z
+DTSTART;VALUE=DATE:20261125
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-11-25\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/246
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/246
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjT0Mw
 SEQUENCE:0
 DTSTAMP:20260903T155117Z
@@ -1368,6 +3294,21 @@ DESCRIPTION:予定日: 2026-11-26\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/104
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJnnA
+SEQUENCE:0
+DTSTAMP:20260904T080703Z
+DTSTART;VALUE=DATE:20261126
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-11-26\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/247
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/247
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjT1NQ
 SEQUENCE:0
 DTSTAMP:20260903T155119Z
@@ -1378,6 +3319,20 @@ SUMMARY:2学期期末考査
 DESCRIPTION:予定日: 2026-11-27\n\nhttps://github.com/ozetudo/calendar/i
  ssues/109
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/109
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJoWA
+SEQUENCE:0
+DTSTAMP:20260904T080705Z
+DTSTART;VALUE=DATE:20261127
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-11-27\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/248
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/248
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjT2IA
@@ -1404,6 +3359,22 @@ DESCRIPTION:予定日: 2026-11-30\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/112
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJo-Q
+SEQUENCE:0
+DTSTAMP:20260904T080706Z
+DTSTART;VALUE=DATE:20261130
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-11-30\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/249
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/249
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjT39g
 SEQUENCE:0
 DTSTAMP:20260903T155123Z
@@ -1428,6 +3399,21 @@ DESCRIPTION:予定日: 2026-12-01\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/117
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJqAw
+SEQUENCE:0
+DTSTAMP:20260904T080707Z
+DTSTART;VALUE=DATE:20261201
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-12-01\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/250
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/250
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjT53g
 SEQUENCE:0
 DTSTAMP:20260903T155126Z
@@ -1438,5 +3424,398 @@ SUMMARY:2学期期末考査
 DESCRIPTION:予定日: 2026-12-02\n\nhttps://github.com/ozetudo/calendar/i
  ssues/119
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/119
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJq4A
+SEQUENCE:0
+DTSTAMP:20260904T080708Z
+DTSTART;VALUE=DATE:20261202
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-12-02\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/251
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/251
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJsNA
+SEQUENCE:0
+DTSTAMP:20260904T080710Z
+DTSTART;VALUE=DATE:20261203
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-12-03\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/252
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/252
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJs6Q
+SEQUENCE:0
+DTSTAMP:20260904T080711Z
+DTSTART;VALUE=DATE:20261204
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-12-04\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/253
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/253
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJtgw
+SEQUENCE:0
+DTSTAMP:20260904T080713Z
+DTSTART;VALUE=DATE:20261208
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-12-08\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/254
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/254
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJuGA
+SEQUENCE:0
+DTSTAMP:20260904T080714Z
+DTSTART;VALUE=DATE:20261209
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-12-09\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/255
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/255
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJuxw
+SEQUENCE:0
+DTSTAMP:20260904T080715Z
+DTSTART;VALUE=DATE:20261210
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-12-10\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/256
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/256
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJvtQ
+SEQUENCE:0
+DTSTAMP:20260904T080717Z
+DTSTART;VALUE=DATE:20261211
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-12-11\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/257
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/257
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJwYw
+SEQUENCE:0
+DTSTAMP:20260904T080718Z
+DTSTART;VALUE=DATE:20261214
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-12-14\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/258
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/258
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJxhQ
+SEQUENCE:0
+DTSTAMP:20260904T080719Z
+DTSTART;VALUE=DATE:20261215
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-12-15\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/259
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/259
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJyQQ
+SEQUENCE:0
+DTSTAMP:20260904T080721Z
+DTSTART;VALUE=DATE:20261216
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-12-16\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/260
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/260
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJy4A
+SEQUENCE:0
+DTSTAMP:20260904T080722Z
+DTSTART;VALUE=DATE:20261217
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2026-12-17\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/261
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/261
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJzfg
+SEQUENCE:0
+DTSTAMP:20260904T080723Z
+DTSTART;VALUE=DATE:20261218
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-12-18\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/262
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/262
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJ0CQ
+SEQUENCE:0
+DTSTAMP:20260904T080724Z
+DTSTART;VALUE=DATE:20261221
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2026-12-21\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/263
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/263
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJ0wg
+SEQUENCE:0
+DTSTAMP:20260904T080726Z
+DTSTART;VALUE=DATE:20261222
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2026-12-22\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/264
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/264
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJ1cg
+SEQUENCE:0
+DTSTAMP:20260904T080727Z
+DTSTART;VALUE=DATE:20261223
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-12-23\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/265
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/265
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJ2Kg
+SEQUENCE:0
+DTSTAMP:20260904T080728Z
+DTSTART;VALUE=DATE:20270107
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2027-01-07\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/266
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/266
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJ3Qw
+SEQUENCE:0
+DTSTAMP:20260904T080729Z
+DTSTART;VALUE=DATE:20270108
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2027-01-08\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/267
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/267
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJ35w
+SEQUENCE:0
+DTSTAMP:20260904T080731Z
+DTSTART;VALUE=DATE:20270112
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2027-01-12\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/268
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/268
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJ4ug
+SEQUENCE:0
+DTSTAMP:20260904T080732Z
+DTSTART;VALUE=DATE:20270113
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2027-01-13\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/269
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/269
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJ5cw
+SEQUENCE:0
+DTSTAMP:20260904T080734Z
+DTSTART;VALUE=DATE:20270114
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2027-01-14\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/270
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/270
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJ6GA
+SEQUENCE:0
+DTSTAMP:20260904T080735Z
+DTSTART;VALUE=DATE:20270115
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2027-01-15\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/271
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/271
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJ6rQ
+SEQUENCE:0
+DTSTAMP:20260904T080736Z
+DTSTART;VALUE=DATE:20270118
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:
+ 家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミン
+ グ(友田/永田)
+DESCRIPTION:【26クラス 月曜時間割】\n\n日付: 2027-01-18\n\n内
+ 容:\n月曜時間割\n- 1:電気回路(友田) 2:体育 3:選択A 4:家
+ 庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング
+ (友田/永田)\n\nhttps://github.com/ozetudo/calendar/issues/272
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/272
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJ7Og
+SEQUENCE:0
+DTSTAMP:20260904T080737Z
+DTSTART;VALUE=DATE:20270119
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英
+ コミュⅡ 6:数学Ⅱ(阪野)
+DESCRIPTION:【26クラス 火曜時間割】\n\n日付: 2027-01-19\n\n内
+ 容:\n火曜時間割\n- 1〜3:実習 4:現代の国語(渡邊) 5:英コ
+ ミュⅡ 6:数学Ⅱ(阪野)\n\nhttps://github.com/ozetudo/calendar/issue
+ s/273
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/273
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJ8Sg
+SEQUENCE:0
+DTSTAMP:20260904T080738Z
+DTSTART;VALUE=DATE:20270120
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国
+ 語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミン
+ グ 7:電子回路
+DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2027-01-20\n\n内
+ 容:\n水曜時間割\n- 1:数学Ⅱ(阪野) 2:体育 3:現代の国語(
+ 渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
+ 電子回路\n\nhttps://github.com/ozetudo/calendar/issues/274
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/274
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJ8_w
+SEQUENCE:0
+DTSTAMP:20260904T080739Z
+DTSTART;VALUE=DATE:20270121
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【木曜時間割】1:保健(嘉正) 2:化学基礎(鎌倉) 3:選
+ 択A 4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR
+DESCRIPTION:【26クラス 木曜時間割】\n\n日付: 2027-01-21\n\n内
+ 容:\n木曜時間割\n- 1:保健(嘉正) 2:化学基礎(鎌倉) 3:選択A
+  4:電気回路(友田) 5:数学Ⅱ(阪野) 6:HR\n\nhttps://github.com/oze
+ tudo/calendar/issues/275
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/275
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPqJ91A
+SEQUENCE:0
+DTSTAMP:20260904T080741Z
+DTSTART;VALUE=DATE:20270122
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【金曜時間割】1:公共(黒崎) 2:英コミュⅡ 3:家庭
+ 基礎 4〜6:実習
+DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2027-01-22\n\n内
+ 容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
+  4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/276
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/276
 END:VEVENT
 END:VCALENDAR
