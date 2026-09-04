@@ -1916,7 +1916,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPqJDCA
 SEQUENCE:0
-DTSTAMP:20260904T080601Z
+DTSTAMP:20260904T152829Z
 DTSTART;VALUE=DATE:20260904
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
@@ -1926,6 +1926,19 @@ DESCRIPTION:【26クラス 金曜時間割】\n\n日付: 2026-09-04\n\n内
  容:\n金曜時間割\n- 1:公共(黒崎) 2:英コミュⅡ 3:家庭基礎
   4〜6:実習\n\nhttps://github.com/ozetudo/calendar/issues/195
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/195
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPuD3ow
+SEQUENCE:0
+DTSTAMP:20260904T152204Z
+DTSTART;VALUE=DATE:20260906
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【C109篠澤広と数学しよう！】参加表明締切
+DESCRIPTION:C109篠澤広×数学合同企画「篠澤広と数学しよ
+ う！4さつめ！」\n\n- 参加表明締切日: 2026/09/06\n\nhttps://g
+ ithub.com/ozetudo/calendar/issues/277
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/277
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPqJDog
@@ -2476,6 +2489,20 @@ SUMMARY:第3回全統共通テスト模試 (自校会場)
 DESCRIPTION:予定日: 2026-10-17\n\nhttps://github.com/ozetudo/calendar/i
  ssues/35
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/35
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPuD4hg
+SEQUENCE:0
+DTSTAMP:20260904T152206Z
+DTSTART;VALUE=DATE:20261018
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【C109篠澤広と数学しよう！】初稿締切・校閲校
+ 正期間開始
+DESCRIPTION:C109篠澤広×数学合同企画「篠澤広と数学しよ
+ う！4さつめ！」\n\n- 初稿締切日: 2026/10/18\n- 以降、校閲
+ 校正期間\n\nhttps://github.com/ozetudo/calendar/issues/278
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/278
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPqJWVw
@@ -3347,6 +3374,20 @@ DESCRIPTION:予定日: 2026-11-29\n\nhttps://github.com/ozetudo/calendar/i
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/110
 END:VEVENT
 BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPuD5vA
+SEQUENCE:0
+DTSTAMP:20260904T152208Z
+DTSTART;VALUE=DATE:20261129
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【C109篠澤広と数学しよう！】最終稿締切・組版
+ 最終チェック
+DESCRIPTION:C109篠澤広×数学合同企画「篠澤広と数学しよ
+ う！4さつめ！」\n\n- 最終稿締切日: 2026/11/29\n- 組版最終
+ チェック\n\nhttps://github.com/ozetudo/calendar/issues/279
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/279
+END:VEVENT
+BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPjT3Lg
 SEQUENCE:0
 DTSTAMP:20260903T155122Z
@@ -3652,6 +3693,19 @@ DESCRIPTION:【26クラス 水曜時間割】\n\n日付: 2026-12-23\n\n内
  渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:
  電子回路\n\nhttps://github.com/ozetudo/calendar/issues/265
 URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/265
+END:VEVENT
+BEGIN:VEVENT
+UID:I_kwDOUJdbYs8AAAABPuD6yA
+SEQUENCE:0
+DTSTAMP:20260904T152209Z
+DTSTART;VALUE=DATE:20261229
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:【C109】篠澤広と数学しよう！4さつめ！頒布日
+DESCRIPTION:【C109】篠澤広×数学合同企画「篠澤広と数学
+ しよう！4さつめ！」頒布日\n\n- 開催日: 2026/12/29\n\nhttps:
+ //github.com/ozetudo/calendar/issues/280
+URL;VALUE=URI:https://github.com/ozetudo/calendar/issues/280
 END:VEVENT
 BEGIN:VEVENT
 UID:I_kwDOUJdbYs8AAAABPqJ2Kg

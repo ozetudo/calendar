@@ -101,6 +101,7 @@
 <rect x="776" y="336" width="128" height="112" class="cell"/>
 <text x="782" y="352" class="sat">24</text>
 <svg x="10" y="364" width="892" height="16"><rect x="1" y="1" width="890" height="14" rx="3" class="bar" stroke="#1f6feb" stroke-width="2"/><text x="6" y="12" class="bar-text">文化祭準備期間〜10/24</text></svg>
+<svg x="10" y="384" width="124" height="16"><rect x="1" y="1" width="122" height="14" rx="3" class="bar" stroke="#1f6feb" stroke-width="2"/><text x="6" y="12" class="bar-text">【C109篠澤広と数学しよう！】初稿締切・校閲校正期間開始</text></svg>
 <svg x="138" y="384" width="124" height="16"><rect x="1" y="1" width="122" height="14" rx="3" class="bar" stroke="#1f6feb" stroke-width="2"/><text x="6" y="12" class="bar-text">【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング(友田/永田)</text></svg>
 <svg x="266" y="384" width="124" height="16"><rect x="1" y="1" width="122" height="14" rx="3" class="bar" stroke="#1f6feb" stroke-width="2"/><text x="6" y="12" class="bar-text">【火曜時間割】1〜3:実習 4:現代の国語(渡邊) 5:英コミュⅡ 6:数学Ⅱ(阪野)</text></svg>
 <svg x="394" y="384" width="124" height="16"><rect x="1" y="1" width="122" height="14" rx="3" class="bar" stroke="#1f6feb" stroke-width="2"/><text x="6" y="12" class="bar-text">【水曜時間割】1:数学Ⅱ(阪野) 2:体育 3:現代の国語(渡邊) 4:公共(黒崎) 5:化学基礎(鎌倉) 6:プログラミング 7:電子回路</text></svg>
