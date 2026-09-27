@@ -1,11 +1,11 @@
 # カレンダー
 
 <!-- zunocal:calendar:current:start -->
-![今月のカレンダー](assets/calendar-current-14b290c39fb0.svg)
+![今月のカレンダー](assets/calendar-current-dd5fcdd242d5.svg)
 <!-- zunocal:calendar:current:end -->
 
 <!-- zunocal:calendar:next:start -->
-![来月のカレンダー](assets/calendar-next-14b290c39fb0.svg)
+![来月のカレンダー](assets/calendar-next-dd5fcdd242d5.svg)
 <!-- zunocal:calendar:next:end -->
 
 ## 購読
