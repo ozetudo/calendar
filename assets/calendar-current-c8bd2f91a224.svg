@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="912" height="548" viewBox="0 0 912 548" role="img" aria-label="カレンダー 2026年10月、今日 10月30日">
+<svg xmlns="http://www.w3.org/2000/svg" width="912" height="548" viewBox="0 0 912 548" role="img" aria-label="カレンダー 2026年10月、今日 10月31日">
 <style>
   text { font-family: -apple-system, "Segoe UI", "Hiragino Sans", "Noto Sans JP", Meiryo, sans-serif; font-size: 12px; fill: #000000; }
   .title { font-size: 15px; font-weight: 600; }
@@ -121,9 +121,9 @@
 <text x="398" y="464">28</text>
 <rect x="520" y="448" width="128" height="92" class="cell"/>
 <text x="526" y="464">29</text>
-<rect x="648" y="448" width="128" height="92" class="cell today"/>
+<rect x="648" y="448" width="128" height="92" class="cell"/>
 <text x="654" y="464">30</text>
-<rect x="776" y="448" width="128" height="92" class="cell"/>
+<rect x="776" y="448" width="128" height="92" class="cell today"/>
 <text x="782" y="464" class="sat">31</text>
 <svg x="10" y="476" width="124" height="16"><rect x="1" y="1" width="122" height="14" rx="3" class="bar" stroke="#1f6feb" stroke-width="2"/><text x="6" y="12" class="bar-text">全国高校生ロボット競技大会</text></svg>
 <svg x="10" y="496" width="124" height="16"><rect x="1" y="1" width="122" height="14" rx="3" class="bar" stroke="#1f6feb" stroke-width="2"/><text x="6" y="12" class="bar-text">2級土木施工管理技術検定 (第一次検定)</text></svg>
