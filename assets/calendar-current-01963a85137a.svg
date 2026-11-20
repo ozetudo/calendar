@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="912" height="588" viewBox="0 0 912 588" role="img" aria-label="カレンダー 2026年11月、今日 11月20日">
+<svg xmlns="http://www.w3.org/2000/svg" width="912" height="588" viewBox="0 0 912 588" role="img" aria-label="カレンダー 2026年11月、今日 11月21日">
 <style>
   text { font-family: -apple-system, "Segoe UI", "Hiragino Sans", "Noto Sans JP", Meiryo, sans-serif; font-size: 12px; fill: #000000; }
   .title { font-size: 15px; font-weight: 600; }
@@ -89,9 +89,9 @@
 <text x="398" y="300">18</text>
 <rect x="520" y="284" width="128" height="92" class="cell"/>
 <text x="526" y="300">19</text>
-<rect x="648" y="284" width="128" height="92" class="cell today"/>
+<rect x="648" y="284" width="128" height="92" class="cell"/>
 <text x="654" y="300">20</text>
-<rect x="776" y="284" width="128" height="92" class="cell"/>
+<rect x="776" y="284" width="128" height="92" class="cell today"/>
 <text x="782" y="300" class="sat">21</text>
 <svg x="10" y="312" width="124" height="16"><rect x="1" y="1" width="122" height="14" rx="3" class="bar" stroke="#1f6feb" stroke-width="2"/><text x="6" y="12" class="bar-text">2級電気通信工事施工管理技術検定 (第一次検定)</text></svg>
 <svg x="138" y="312" width="124" height="16"><rect x="1" y="1" width="122" height="14" rx="3" class="bar" stroke="#1f6feb" stroke-width="2"/><text x="6" y="12" class="bar-text">【月曜時間割】1:電気回路(友田) 2:体育 3:選択A 4:家庭基礎 5:英コミュⅡ 6:電子回路(永田) 7:プログラミング(友田/永田)</text></svg>
